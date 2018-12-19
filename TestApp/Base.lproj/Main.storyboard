@@ -130,7 +130,7 @@
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                                 <connections>
-                                    <action selector="addItem:" destination="FO2-vT-8ew" eventType="touchUpInside" id="9ZL-ih-yBh"/>
+                                    <action selector="buttonPressed:" destination="FO2-vT-8ew" eventType="touchUpInside" id="B3X-eE-myH"/>
                                 </connections>
                             </button>
                         </subviews>
