@@ -16,7 +16,6 @@
 		5F84298A21C9335D007D836C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F84298821C9335D007D836C /* LaunchScreen.storyboard */; };
 		5F84299221C93A28007D836C /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F84299121C93A28007D836C /* AddItemViewController.swift */; };
 		5F84299621C9451A007D836C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F84299521C9451A007D836C /* Model.swift */; };
-		5FFCA2B821C976DB0021D1B2 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5FFCA2B721C976DB0021D1B2 /* GoogleService-Info.plist */; };
 		C133E823D93F62263CB2664F /* Pods_TestApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EB7A0DEFF1B1652899E4EA2 /* Pods_TestApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -34,7 +33,6 @@
 		5F84298B21C9335D007D836C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F84299121C93A28007D836C /* AddItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 		5F84299521C9451A007D836C /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
-		5FFCA2B721C976DB0021D1B2 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		AA7ED753C479DAA369CCD9CE /* Pods-TestApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestApp/Pods-TestApp.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -99,7 +97,6 @@
 			children = (
 				5F00908A21CAAD7900F4807D /* Controller */,
 				5F00908921CAAD7100F4807D /* View */,
-				5FFCA2B721C976DB0021D1B2 /* GoogleService-Info.plist */,
 				5F84297F21C9335D007D836C /* AppDelegate.swift */,
 				5F84298321C9335D007D836C /* Main.storyboard */,
 				5F84298621C9335D007D836C /* Assets.xcassets */,
@@ -182,7 +179,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F84298A21C9335D007D836C /* LaunchScreen.storyboard in Resources */,
-				5FFCA2B821C976DB0021D1B2 /* GoogleService-Info.plist in Resources */,
 				5F84298721C9335D007D836C /* Assets.xcassets in Resources */,
 				5F84298521C9335D007D836C /* Main.storyboard in Resources */,
 				5F00909021CAADB500F4807D /* GroceryItemCell.xib in Resources */,
