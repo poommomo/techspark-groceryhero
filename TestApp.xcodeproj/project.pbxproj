@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		224AD4F421CB715400925D0F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 224AD4F321CB715400925D0F /* GoogleService-Info.plist */; };
 		5F00908F21CAADB500F4807D /* GroceryItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F00908D21CAADB500F4807D /* GroceryItemCell.swift */; };
 		5F00909021CAADB500F4807D /* GroceryItemCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F00908E21CAADB500F4807D /* GroceryItemCell.xib */; };
 		5F84298021C9335D007D836C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F84297F21C9335D007D836C /* AppDelegate.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		224AD4F321CB715400925D0F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		31816E491F0C926E3789481E /* Pods-TestApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestApp/Pods-TestApp.release.xcconfig"; sourceTree = "<group>"; };
 		5EB7A0DEFF1B1652899E4EA2 /* Pods_TestApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F00908D21CAADB500F4807D /* GroceryItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroceryItemCell.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				5F84298821C9335D007D836C /* LaunchScreen.storyboard */,
 				5F84298B21C9335D007D836C /* Info.plist */,
 				5F84299521C9451A007D836C /* Model.swift */,
+				224AD4F321CB715400925D0F /* GoogleService-Info.plist */,
 			);
 			path = TestApp;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			files = (
 				5F84298A21C9335D007D836C /* LaunchScreen.storyboard in Resources */,
 				5F84298721C9335D007D836C /* Assets.xcassets in Resources */,
+				224AD4F421CB715400925D0F /* GoogleService-Info.plist in Resources */,
 				5F84298521C9335D007D836C /* Main.storyboard in Resources */,
 				5F00909021CAADB500F4807D /* GroceryItemCell.xib in Resources */,
 			);

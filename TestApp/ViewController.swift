@@ -29,6 +29,10 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
     }
     
+    override func viewWillAppear(_ animated: Bool) {
+        fetchFirebase()
+    }
+    
     // Function when add new item button is clicked
     @IBAction func addItemClicked(_ sender: UIButton) {
                if let vc = storyboard?.instantiateViewController(withIdentifier: "ref_additem") as? AddItemViewController {
